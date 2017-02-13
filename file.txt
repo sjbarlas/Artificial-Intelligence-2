@@ -1,0 +1,11 @@
+calling
+writing
+complaining
+timing
+
+Lists and Tuples are similar
+EXCEPT
+1. Tuples are in () brackets rather than []
+2. Tuples can't be changed i.e. IMMUTABLE 
+
+Can't index into a set, CAN ITERATE THOUGH!
